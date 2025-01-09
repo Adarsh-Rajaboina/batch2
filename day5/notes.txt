@@ -1,0 +1,32 @@
+function is a building block of javascript
+function is a block of code which is used to execute specific task
+function is a non primitive data type.
+function can be reusable.
+syntax - function 
+
+
+
+types of function:
+1.named function : function is having name and invoked(calling) with arguments
+2.anonymous function : function which does not have name.
+
+
+3.function expression : anonymuos function assigned with a variable and executed with same invoked function variable
+4.IIFE(imediate invoke function expression) : it can be invoked only one time.
+5.Arrow function : it is intoduced in es6 feature.
+-It consice the function
+()=>{};
+-arrow function is similar to anonymous function.
+6.Higher order function
+7.Callback function
+
+current version of javascript is es14.
+es - ECMA script
+ECMA - european computer manufacturing association.
+es6 feature is stable.
+
+
+explicit return :- explicit we have to give a keyboard  called return.
+explicit return is possible by both normal and arrow function
+ 
+ note: no printing statements will work after return statement.
