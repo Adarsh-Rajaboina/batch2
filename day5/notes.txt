@@ -18,6 +18,7 @@ types of function:
 ()=>{};
 -arrow function is similar to anonymous function.
 6.Higher order function
+higher order function is 
 7.Callback function
 
 current version of javascript is es14.
@@ -30,3 +31,6 @@ explicit return :- explicit we have to give a keyboard  called return.
 explicit return is possible by both normal and arrow function
  
  note: no printing statements will work after return statement.
+
+ closure : closure is a memory created when functions are bundled together or nested each other 
+           by giving accessibility to the innermost function to the variables of outermost function

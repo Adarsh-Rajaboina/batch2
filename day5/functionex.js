@@ -54,15 +54,52 @@
 
 //  | implicit returns and explicit returns.
 
-function test1(a,b){
-    return a+b;
-    console.log("implicit.....");
+// function test1(a,b){
+//     return a+b;
+//     console.log("implicit.....");
     
+// }
+// console.log(test1(6,3));
+
+// // let x= (a,b)=> {return a+b;};
+// // console.log(x(5,5));
+
+// // let y = (a,b) => a+b;
+// // console.log(y(7,7));
+// function hof(a){ //higher order function
+//     return a();
+// }
+// let x = hof(function(){return "callback function"}); //callback function
+// console.log(x);
+
+// let users = ["a", "b", "c", "d"];
+// console.log(users);
+// users.map((users)=>{
+//     console.log(users);
+// })
+
+var a=10;
+let b=45;
+function x(){
+    var user = "sai";
+    let company = "Amazon";
+    const salary = 450000;
+    console.log(user);
+    console.log(company);
+    console.log(salary);
+    console.log(a,b);
 }
-console.log(test1(6,3));
+x();
 
-// let x= (a,b)=> {return a+b;};
-// console.log(x(5,5));
 
-// let y = (a,b) => a+b;
-// console.log(y(7,7));
+
+
+
+
+
+
+
+
+
+
+
