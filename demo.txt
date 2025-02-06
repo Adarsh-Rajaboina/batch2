@@ -1,0 +1,4 @@
+take array of objects where each object contains emp id, emp name,
+emp company, emp salary, emp address, where emp address contains  further
+contains an object which includes 2 properties such as empcity,area.
+Display all these employee data on the UI  in a table through javascript
